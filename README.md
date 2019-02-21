@@ -9,5 +9,5 @@ Repo para desafios e treinamentos de algoritmos em equipe, vale uma pizza no fin
 
 # DOJO LOGS
   - Dia: 21/02
-    - (Link DOJO)[http://dojopuzzles.com/problemas/exibe/encontre-o-telefone/]
+    - [Link DOJO](http://dojopuzzles.com/problemas/exibe/encontre-o-telefone/)
 

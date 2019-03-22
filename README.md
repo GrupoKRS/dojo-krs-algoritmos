@@ -3,8 +3,8 @@ Repo para desafios e treinamentos de algoritmos em equipe, vale uma pizza no fin
 
 # Pontuação Geral
   - Bruno: 50pts
-  - Carol: 50pts
-  - Julio: 0pts
+  - Carol: 100pts
+  - Julio: 50pts
   - Rafael: 0pts
 
 # DOJO LOGS
